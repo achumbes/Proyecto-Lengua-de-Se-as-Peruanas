@@ -1,0 +1,26 @@
+<annotation>
+	<folder>H</folder>
+	<filename>H_21.jpg</filename>
+	<path>C:\Object_detection\models\research\object_detection\images\train\H_21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>56</ymin>
+			<xmax>124</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

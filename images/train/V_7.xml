@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>V_7.jpg</filename>
+	<path>C:\Object_detection\models\research\object_detection\images\train\V_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>1</ymin>
+			<xmax>80</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

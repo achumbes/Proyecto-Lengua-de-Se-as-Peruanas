@@ -1,0 +1,26 @@
+<annotation>
+	<folder>E</folder>
+	<filename>E_6.jpg</filename>
+	<path>C:\Object_detection\models\research\object_detection\images\train\E_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>20</ymin>
+			<xmax>133</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>
